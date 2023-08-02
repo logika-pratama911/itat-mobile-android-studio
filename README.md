@@ -9,7 +9,7 @@ Sebelum Memulai lakukan Installasi
   https://www.nesabamedia.com/cara-install-git-di-windows-10/
 ```
 
-# Kofigurasi
+# Konfigurasi
 1. Lakukan pengambilan source code pada git dengan perintah
  ```sh
 git clone https://github.com/logika-pratama911/itat-mobile-android-studio.git
